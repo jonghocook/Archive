@@ -1,0 +1,11 @@
+D:\Project\Archive\StudyCode\C_sharp\brain_003\obj\Debug\netcoreapp2.2\brain_003.csprojAssemblyReference.cache
+D:\Project\Archive\StudyCode\C_sharp\brain_003\obj\Debug\netcoreapp2.2\brain_003.csproj.CoreCompileInputs.cache
+D:\Project\Archive\StudyCode\C_sharp\brain_003\obj\Debug\netcoreapp2.2\brain_003.AssemblyInfoInputs.cache
+D:\Project\Archive\StudyCode\C_sharp\brain_003\obj\Debug\netcoreapp2.2\brain_003.AssemblyInfo.cs
+D:\Project\Archive\StudyCode\C_sharp\brain_003\bin\Debug\netcoreapp2.2\brain_003.deps.json
+D:\Project\Archive\StudyCode\C_sharp\brain_003\bin\Debug\netcoreapp2.2\brain_003.runtimeconfig.json
+D:\Project\Archive\StudyCode\C_sharp\brain_003\bin\Debug\netcoreapp2.2\brain_003.runtimeconfig.dev.json
+D:\Project\Archive\StudyCode\C_sharp\brain_003\bin\Debug\netcoreapp2.2\brain_003.dll
+D:\Project\Archive\StudyCode\C_sharp\brain_003\bin\Debug\netcoreapp2.2\brain_003.pdb
+D:\Project\Archive\StudyCode\C_sharp\brain_003\obj\Debug\netcoreapp2.2\brain_003.dll
+D:\Project\Archive\StudyCode\C_sharp\brain_003\obj\Debug\netcoreapp2.2\brain_003.pdb
