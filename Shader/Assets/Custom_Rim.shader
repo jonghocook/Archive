@@ -1,4 +1,4 @@
-Shader "Custom/rim_2"
+Shader "Custom/rim_1"
 {
     Properties
     {
