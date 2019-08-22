@@ -4,6 +4,8 @@ Shader "Custom/CustomLightBlinnPhongSpecular"
     {
         _MainTex ("Albedo (RGB)", 2D) = "white"{}
         _BumpMap ("NormalMap", 2D) = "bump" {}
+        _SpecCol ("Specular Color", Color) = (1, 1, 1, 1)
+        _SpecPow ("Specular Power", Range(10, 200)) = 100
     }
 
     SubShader
@@ -11,10 +13,12 @@ Shader "Custom/CustomLightBlinnPhongSpecular"
         Tags {"RenderType" = "Opaque"}
 
         CGPROGRAM
-        #pragma surface surf test noambient
+        #pragma surface surf test //noambient
 
         sampler2D _MainTex;
         sampler2D _BumpMap;
+        float4 _SpecCol;
+        float _SpecPow;
 
         struct Input
         {
@@ -32,14 +36,22 @@ Shader "Custom/CustomLightBlinnPhongSpecular"
 
         void LightTest (SurfaceOutput s, float3 lightDir, float3 viewDir, float atten)
         {
-            float ndotl = saturate(dot(s.Noraml, lightDir));
             float4 final;
+
+            //Lambert term
             float3 DiffColor;
+            float ndotl = saturate(dot(s.Noraml, lightDir));
             DiffColor = ndotl * s.Albedo * _LightColor0.rgb * atten;
             
+            //Spec term
+            float3 SpecColor;
             float3 H = normalize(lightDir + viewDir);
+            float spec = saturate(dot(H, s.Normal));
+            spec = pow(spec, _SpecPow);
+            SpecColor = spec * _SpecCol.rgb;
 
-            final.rgb = DiffColor.rgb;
+            //Final term
+            final.rgb = DiffColor.rgb + SpecColor.rgb;
             final.a = s.Alpha;
             return final;
         }
