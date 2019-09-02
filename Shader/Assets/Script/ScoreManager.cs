@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ScoreManager : MonoBehaviour {
 
-    public List<int> scores = new List<int>();
+    public List<int> scores = new List<int>();  //List<int> 인스턴트 생성.
 
     void Start() {
         //while(scores.Count > 0)

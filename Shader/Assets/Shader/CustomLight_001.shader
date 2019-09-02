@@ -1,11 +1,11 @@
-Shader "Custom/EditSpecularPower"
+Shader "Custom/CustomLight"
 {
     Properties
     {
         _MainTex ("Albedo (RGB)", 2D) = "white"{}
-        _BumpMap ("NormalMap", 2D) = "Bump"{}
-        _SpecColor ("SpecularColor", Color) = (1, 1, 1, 1)
-        _SpecPower ("SpecularPower", Range(10, 200)) = 100
+        _BumpMap ("NormalMap" 2D) = "bump"{}
+        _SpecCol ("Specular Color", Color) = (1, 1, 1, 1)
+        _SpecPow ("Specular Power", Range(10, 200)) = 100
         _GlossTex ("Gloss Tex", 2D) = "white"{}
     }
 
@@ -19,14 +19,14 @@ Shader "Custom/EditSpecularPower"
         sampler2D _MainTex;
         sampler2D _BumpMap;
         sampler2D _GlossTex;
-        float4 _SpecColor;
-        float _SpecPower;
+        half4 _SpecCol;
+        half _SpecPow;
 
         struct Input
         {
-            float2 uv_MainTex;
-            float2 uv_BumpMap;
-            float2 uv_GlossTex;
+            half2 uv_MainTex;
+            half2 uv_BumpMap;
+            half2 uv_GlossTex;
         };
 
         void surf (Input IN, inout SurfaceOutput o)
@@ -39,28 +39,23 @@ Shader "Custom/EditSpecularPower"
             o.Alpha = c.a;
         }
 
-        float4 LightingTest (SurfaceOutput s, float3 lightDir, float3 viewDir, float atten)
+        half4 LightingTest (SurfaceOutput s, float3 lightDir, float3 viewDir, float atten)
         {
-            float4 final;
+            half4 final;
 
-            //Lambert
-            float3 DiffColor;
-            float ndotl = saturate(dot(s.Normal, lightDir));
-            DiffColor = ndotl * s.Albedo * _LightColor0.rgb * atten;
+            //lambert term
+            half3 DiffColor;
+            half3 ndotl = saturate(dot(s.Normal, lightDir));
+            DiffuColor = ndotl * s.Albedo * _LightColor0.rgb * atten;
 
-            //Spec
-            float3 SpecColor;
-            float3 H = normalize(lightDir + viewDir);
-            float spec = pow(spec, _SpecPower);
-            SpecColor = spec * _SpecColor.rgb * s.Gloss;
+            //Spec term
+            half3 SpecColor;
+            half3 H = normalize(lightDir + viewDir);
+            half spec = saturate(dot(H, s.Normal));
+            spec = pow(spec, _SpecPow));
+            SpecColor = spec * _SpecCol.rgb * s.Gloss;
 
-            //Rim
-            float3 rimColor;
-            float rim = abs(dot(viewDir, s.Normal));
-            float invrim = 1 - rim;
-            rimColor = pow(invrim, 6) * float3(0.5, 0.5, 0.5);
-
-            //final
+            //final term
             final.rgb = DiffColor.rgb + SpecColor.rgb;
             final.a = s.Alpha;
             return final;
