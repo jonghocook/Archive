@@ -5,22 +5,36 @@
 int main(void)
 {
     int i;
+    int j = 0;                      //배열 앞번호 초기화
+    int k = 9;                      //배열 뒷번호 초기화
+    int num;                        //입력받을 변수    
     int arr[10];
 
     for(i=0; i<10; i++)
     {
         printf("Enter Number: ");
-        scanf("%d", &arr[i]);
+        scanf("%d", &num);
+
+        if(num%2 == 1)
+        {
+            arr[j] = num;
+            j++;
+        }
+        else
+        {
+            arr[k] = num;
+            k--;
+        }
     }
-
-
-
+    
     printf("Result: ");
 
     for(i=0; i<10; i++)
     {
         printf("%d | ", arr[i]);
     }
+
+    printf("End \n");
 
     return 0;
 }
