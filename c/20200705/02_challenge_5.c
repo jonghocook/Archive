@@ -30,30 +30,15 @@ int main(void)
 
 int* DesSort(int* pArr)
 {
-    int i, j, k, l, m, n, temp;
+    int i, j, temp;
 
     for(i=6; i>0; i--)
     {
         for(j=6; j>6-i; j--)
         {
-            for(k=6; k>6-j; k--)
-            {
-                for(l=6; l>6-k; l--)
-                {
-                    for(m=6; m>6-l; m--)
-                    {
-                        for(n=6; n>6-m; n--)
-                        {
-                            if(pArr[n] > pArr[n-1])
-                            {
-                                temp = pArr[n-1];
-                                pArr[n-1] = pArr[n];
-                                pArr[n] = temp;
-                            }
-                        }
-                    }
-                }
-            }
+            temp = pArr[j-1];
+            pArr[j-1] = pArr[j];
+            pArr[j] = temp;
         }
     }
 
