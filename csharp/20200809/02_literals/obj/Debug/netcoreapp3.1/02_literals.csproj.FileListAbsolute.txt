@@ -1,0 +1,11 @@
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200809\02_literals\obj\Debug\netcoreapp3.1\02_literals.csprojAssemblyReference.cache
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200809\02_literals\obj\Debug\netcoreapp3.1\02_literals.AssemblyInfoInputs.cache
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200809\02_literals\obj\Debug\netcoreapp3.1\02_literals.AssemblyInfo.cs
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200809\02_literals\bin\Debug\netcoreapp3.1\02_literals.exe
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200809\02_literals\bin\Debug\netcoreapp3.1\02_literals.deps.json
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200809\02_literals\bin\Debug\netcoreapp3.1\02_literals.runtimeconfig.json
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200809\02_literals\bin\Debug\netcoreapp3.1\02_literals.runtimeconfig.dev.json
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200809\02_literals\bin\Debug\netcoreapp3.1\02_literals.dll
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200809\02_literals\bin\Debug\netcoreapp3.1\02_literals.pdb
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200809\02_literals\obj\Debug\netcoreapp3.1\02_literals.dll
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200809\02_literals\obj\Debug\netcoreapp3.1\02_literals.pdb

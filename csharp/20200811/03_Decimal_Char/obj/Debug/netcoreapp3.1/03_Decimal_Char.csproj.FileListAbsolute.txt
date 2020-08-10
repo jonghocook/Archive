@@ -1,0 +1,11 @@
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\03_Decimal_Char\bin\Debug\netcoreapp3.1\03_Decimal_Char.exe
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\03_Decimal_Char\bin\Debug\netcoreapp3.1\03_Decimal_Char.deps.json
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\03_Decimal_Char\bin\Debug\netcoreapp3.1\03_Decimal_Char.runtimeconfig.json
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\03_Decimal_Char\bin\Debug\netcoreapp3.1\03_Decimal_Char.runtimeconfig.dev.json
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\03_Decimal_Char\bin\Debug\netcoreapp3.1\03_Decimal_Char.dll
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\03_Decimal_Char\bin\Debug\netcoreapp3.1\03_Decimal_Char.pdb
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\03_Decimal_Char\obj\Debug\netcoreapp3.1\03_Decimal_Char.csprojAssemblyReference.cache
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\03_Decimal_Char\obj\Debug\netcoreapp3.1\03_Decimal_Char.AssemblyInfoInputs.cache
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\03_Decimal_Char\obj\Debug\netcoreapp3.1\03_Decimal_Char.AssemblyInfo.cs
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\03_Decimal_Char\obj\Debug\netcoreapp3.1\03_Decimal_Char.dll
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\03_Decimal_Char\obj\Debug\netcoreapp3.1\03_Decimal_Char.pdb
