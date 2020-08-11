@@ -1,0 +1,11 @@
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\04_object\bin\Debug\netcoreapp3.1\04_object.exe
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\04_object\bin\Debug\netcoreapp3.1\04_object.deps.json
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\04_object\bin\Debug\netcoreapp3.1\04_object.runtimeconfig.json
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\04_object\bin\Debug\netcoreapp3.1\04_object.runtimeconfig.dev.json
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\04_object\bin\Debug\netcoreapp3.1\04_object.dll
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\04_object\bin\Debug\netcoreapp3.1\04_object.pdb
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\04_object\obj\Debug\netcoreapp3.1\04_object.csprojAssemblyReference.cache
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\04_object\obj\Debug\netcoreapp3.1\04_object.AssemblyInfoInputs.cache
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\04_object\obj\Debug\netcoreapp3.1\04_object.AssemblyInfo.cs
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\04_object\obj\Debug\netcoreapp3.1\04_object.dll
+C:\Users\jongh\OneDrive\바탕 화면\coox\Archive\csharp\20200811\04_object\obj\Debug\netcoreapp3.1\04_object.pdb
