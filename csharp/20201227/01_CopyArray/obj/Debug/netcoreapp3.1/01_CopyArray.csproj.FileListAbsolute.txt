@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20201227\01_CopyArray\obj\Debug\netcoreapp3.1\01_CopyArray.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20201227\01_CopyArray\obj\Debug\netcoreapp3.1\01_CopyArray.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20201227\01_CopyArray\obj\Debug\netcoreapp3.1\01_CopyArray.AssemblyInfo.cs
+C:\coox\Archive\csharp\20201227\01_CopyArray\bin\Debug\netcoreapp3.1\01_CopyArray.exe
+C:\coox\Archive\csharp\20201227\01_CopyArray\bin\Debug\netcoreapp3.1\01_CopyArray.deps.json
+C:\coox\Archive\csharp\20201227\01_CopyArray\bin\Debug\netcoreapp3.1\01_CopyArray.runtimeconfig.json
+C:\coox\Archive\csharp\20201227\01_CopyArray\bin\Debug\netcoreapp3.1\01_CopyArray.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20201227\01_CopyArray\bin\Debug\netcoreapp3.1\01_CopyArray.dll
+C:\coox\Archive\csharp\20201227\01_CopyArray\bin\Debug\netcoreapp3.1\01_CopyArray.pdb
+C:\coox\Archive\csharp\20201227\01_CopyArray\obj\Debug\netcoreapp3.1\01_CopyArray.dll
+C:\coox\Archive\csharp\20201227\01_CopyArray\obj\Debug\netcoreapp3.1\01_CopyArray.pdb

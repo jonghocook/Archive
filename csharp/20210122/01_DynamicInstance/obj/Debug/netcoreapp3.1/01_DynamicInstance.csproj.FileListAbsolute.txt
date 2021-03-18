@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210122\01_DynamicInstance\obj\Debug\netcoreapp3.1\01_DynamicInstance.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210122\01_DynamicInstance\obj\Debug\netcoreapp3.1\01_DynamicInstance.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210122\01_DynamicInstance\obj\Debug\netcoreapp3.1\01_DynamicInstance.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210122\01_DynamicInstance\bin\Debug\netcoreapp3.1\01_DynamicInstance.exe
+C:\coox\Archive\csharp\20210122\01_DynamicInstance\bin\Debug\netcoreapp3.1\01_DynamicInstance.deps.json
+C:\coox\Archive\csharp\20210122\01_DynamicInstance\bin\Debug\netcoreapp3.1\01_DynamicInstance.runtimeconfig.json
+C:\coox\Archive\csharp\20210122\01_DynamicInstance\bin\Debug\netcoreapp3.1\01_DynamicInstance.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210122\01_DynamicInstance\bin\Debug\netcoreapp3.1\01_DynamicInstance.dll
+C:\coox\Archive\csharp\20210122\01_DynamicInstance\bin\Debug\netcoreapp3.1\01_DynamicInstance.pdb
+C:\coox\Archive\csharp\20210122\01_DynamicInstance\obj\Debug\netcoreapp3.1\01_DynamicInstance.dll
+C:\coox\Archive\csharp\20210122\01_DynamicInstance\obj\Debug\netcoreapp3.1\01_DynamicInstance.pdb

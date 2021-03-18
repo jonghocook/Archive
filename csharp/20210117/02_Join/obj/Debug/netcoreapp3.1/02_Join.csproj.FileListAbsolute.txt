@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210117\02_Join\obj\Debug\netcoreapp3.1\02_Join.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210117\02_Join\obj\Debug\netcoreapp3.1\02_Join.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210117\02_Join\obj\Debug\netcoreapp3.1\02_Join.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210117\02_Join\bin\Debug\netcoreapp3.1\02_Join.exe
+C:\coox\Archive\csharp\20210117\02_Join\bin\Debug\netcoreapp3.1\02_Join.deps.json
+C:\coox\Archive\csharp\20210117\02_Join\bin\Debug\netcoreapp3.1\02_Join.runtimeconfig.json
+C:\coox\Archive\csharp\20210117\02_Join\bin\Debug\netcoreapp3.1\02_Join.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210117\02_Join\bin\Debug\netcoreapp3.1\02_Join.dll
+C:\coox\Archive\csharp\20210117\02_Join\bin\Debug\netcoreapp3.1\02_Join.pdb
+C:\coox\Archive\csharp\20210117\02_Join\obj\Debug\netcoreapp3.1\02_Join.dll
+C:\coox\Archive\csharp\20210117\02_Join\obj\Debug\netcoreapp3.1\02_Join.pdb

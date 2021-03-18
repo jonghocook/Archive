@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210101\03_UsingGenericQueue\obj\Debug\netcoreapp3.1\03_UsingGenericQueue.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210101\03_UsingGenericQueue\obj\Debug\netcoreapp3.1\03_UsingGenericQueue.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210101\03_UsingGenericQueue\obj\Debug\netcoreapp3.1\03_UsingGenericQueue.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210101\03_UsingGenericQueue\bin\Debug\netcoreapp3.1\03_UsingGenericQueue.exe
+C:\coox\Archive\csharp\20210101\03_UsingGenericQueue\bin\Debug\netcoreapp3.1\03_UsingGenericQueue.deps.json
+C:\coox\Archive\csharp\20210101\03_UsingGenericQueue\bin\Debug\netcoreapp3.1\03_UsingGenericQueue.runtimeconfig.json
+C:\coox\Archive\csharp\20210101\03_UsingGenericQueue\bin\Debug\netcoreapp3.1\03_UsingGenericQueue.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210101\03_UsingGenericQueue\bin\Debug\netcoreapp3.1\03_UsingGenericQueue.dll
+C:\coox\Archive\csharp\20210101\03_UsingGenericQueue\bin\Debug\netcoreapp3.1\03_UsingGenericQueue.pdb
+C:\coox\Archive\csharp\20210101\03_UsingGenericQueue\obj\Debug\netcoreapp3.1\03_UsingGenericQueue.dll
+C:\coox\Archive\csharp\20210101\03_UsingGenericQueue\obj\Debug\netcoreapp3.1\03_UsingGenericQueue.pdb

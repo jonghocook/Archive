@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210106\02_MyException\bin\Debug\netcoreapp3.1\02_MyException.exe
+C:\coox\Archive\csharp\20210106\02_MyException\bin\Debug\netcoreapp3.1\02_MyException.deps.json
+C:\coox\Archive\csharp\20210106\02_MyException\bin\Debug\netcoreapp3.1\02_MyException.runtimeconfig.json
+C:\coox\Archive\csharp\20210106\02_MyException\bin\Debug\netcoreapp3.1\02_MyException.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210106\02_MyException\bin\Debug\netcoreapp3.1\02_MyException.dll
+C:\coox\Archive\csharp\20210106\02_MyException\bin\Debug\netcoreapp3.1\02_MyException.pdb
+C:\coox\Archive\csharp\20210106\02_MyException\obj\Debug\netcoreapp3.1\02_MyException.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210106\02_MyException\obj\Debug\netcoreapp3.1\02_MyException.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210106\02_MyException\obj\Debug\netcoreapp3.1\02_MyException.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210106\02_MyException\obj\Debug\netcoreapp3.1\02_MyException.dll
+C:\coox\Archive\csharp\20210106\02_MyException\obj\Debug\netcoreapp3.1\02_MyException.pdb

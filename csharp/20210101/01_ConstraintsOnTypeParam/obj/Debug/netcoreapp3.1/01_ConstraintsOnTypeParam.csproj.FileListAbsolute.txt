@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210101\01_ConstraintsOnTypeParam\obj\Debug\netcoreapp3.1\01_ConstraintsOnTypeParam.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210101\01_ConstraintsOnTypeParam\obj\Debug\netcoreapp3.1\01_ConstraintsOnTypeParam.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210101\01_ConstraintsOnTypeParam\obj\Debug\netcoreapp3.1\01_ConstraintsOnTypeParam.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210101\01_ConstraintsOnTypeParam\bin\Debug\netcoreapp3.1\01_ConstraintsOnTypeParam.exe
+C:\coox\Archive\csharp\20210101\01_ConstraintsOnTypeParam\bin\Debug\netcoreapp3.1\01_ConstraintsOnTypeParam.deps.json
+C:\coox\Archive\csharp\20210101\01_ConstraintsOnTypeParam\bin\Debug\netcoreapp3.1\01_ConstraintsOnTypeParam.runtimeconfig.json
+C:\coox\Archive\csharp\20210101\01_ConstraintsOnTypeParam\bin\Debug\netcoreapp3.1\01_ConstraintsOnTypeParam.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210101\01_ConstraintsOnTypeParam\bin\Debug\netcoreapp3.1\01_ConstraintsOnTypeParam.dll
+C:\coox\Archive\csharp\20210101\01_ConstraintsOnTypeParam\bin\Debug\netcoreapp3.1\01_ConstraintsOnTypeParam.pdb
+C:\coox\Archive\csharp\20210101\01_ConstraintsOnTypeParam\obj\Debug\netcoreapp3.1\01_ConstraintsOnTypeParam.dll
+C:\coox\Archive\csharp\20210101\01_ConstraintsOnTypeParam\obj\Debug\netcoreapp3.1\01_ConstraintsOnTypeParam.pdb

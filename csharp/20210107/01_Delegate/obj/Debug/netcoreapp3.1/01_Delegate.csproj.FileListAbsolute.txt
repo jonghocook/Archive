@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210107\01_Delegate\bin\Debug\netcoreapp3.1\01_Delegate.exe
+C:\coox\Archive\csharp\20210107\01_Delegate\bin\Debug\netcoreapp3.1\01_Delegate.deps.json
+C:\coox\Archive\csharp\20210107\01_Delegate\bin\Debug\netcoreapp3.1\01_Delegate.runtimeconfig.json
+C:\coox\Archive\csharp\20210107\01_Delegate\bin\Debug\netcoreapp3.1\01_Delegate.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210107\01_Delegate\bin\Debug\netcoreapp3.1\01_Delegate.dll
+C:\coox\Archive\csharp\20210107\01_Delegate\bin\Debug\netcoreapp3.1\01_Delegate.pdb
+C:\coox\Archive\csharp\20210107\01_Delegate\obj\Debug\netcoreapp3.1\01_Delegate.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210107\01_Delegate\obj\Debug\netcoreapp3.1\01_Delegate.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210107\01_Delegate\obj\Debug\netcoreapp3.1\01_Delegate.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210107\01_Delegate\obj\Debug\netcoreapp3.1\01_Delegate.dll
+C:\coox\Archive\csharp\20210107\01_Delegate\obj\Debug\netcoreapp3.1\01_Delegate.pdb

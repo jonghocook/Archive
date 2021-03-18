@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210115\01_ExpressionBodiedMember\bin\Debug\netcoreapp3.1\01_ExpressionBodiedMember.exe
+C:\coox\Archive\csharp\20210115\01_ExpressionBodiedMember\bin\Debug\netcoreapp3.1\01_ExpressionBodiedMember.deps.json
+C:\coox\Archive\csharp\20210115\01_ExpressionBodiedMember\bin\Debug\netcoreapp3.1\01_ExpressionBodiedMember.runtimeconfig.json
+C:\coox\Archive\csharp\20210115\01_ExpressionBodiedMember\bin\Debug\netcoreapp3.1\01_ExpressionBodiedMember.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210115\01_ExpressionBodiedMember\bin\Debug\netcoreapp3.1\01_ExpressionBodiedMember.dll
+C:\coox\Archive\csharp\20210115\01_ExpressionBodiedMember\bin\Debug\netcoreapp3.1\01_ExpressionBodiedMember.pdb
+C:\coox\Archive\csharp\20210115\01_ExpressionBodiedMember\obj\Debug\netcoreapp3.1\01_ExpressionBodiedMember.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210115\01_ExpressionBodiedMember\obj\Debug\netcoreapp3.1\01_ExpressionBodiedMember.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210115\01_ExpressionBodiedMember\obj\Debug\netcoreapp3.1\01_ExpressionBodiedMember.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210115\01_ExpressionBodiedMember\obj\Debug\netcoreapp3.1\01_ExpressionBodiedMember.dll
+C:\coox\Archive\csharp\20210115\01_ExpressionBodiedMember\obj\Debug\netcoreapp3.1\01_ExpressionBodiedMember.pdb

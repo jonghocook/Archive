@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210101\02_UsingGenericList\bin\Debug\netcoreapp3.1\02_UsingGenericList.exe
+C:\coox\Archive\csharp\20210101\02_UsingGenericList\bin\Debug\netcoreapp3.1\02_UsingGenericList.deps.json
+C:\coox\Archive\csharp\20210101\02_UsingGenericList\bin\Debug\netcoreapp3.1\02_UsingGenericList.runtimeconfig.json
+C:\coox\Archive\csharp\20210101\02_UsingGenericList\bin\Debug\netcoreapp3.1\02_UsingGenericList.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210101\02_UsingGenericList\bin\Debug\netcoreapp3.1\02_UsingGenericList.dll
+C:\coox\Archive\csharp\20210101\02_UsingGenericList\bin\Debug\netcoreapp3.1\02_UsingGenericList.pdb
+C:\coox\Archive\csharp\20210101\02_UsingGenericList\obj\Debug\netcoreapp3.1\02_UsingGenericList.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210101\02_UsingGenericList\obj\Debug\netcoreapp3.1\02_UsingGenericList.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210101\02_UsingGenericList\obj\Debug\netcoreapp3.1\02_UsingGenericList.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210101\02_UsingGenericList\obj\Debug\netcoreapp3.1\02_UsingGenericList.dll
+C:\coox\Archive\csharp\20210101\02_UsingGenericList\obj\Debug\netcoreapp3.1\02_UsingGenericList.pdb

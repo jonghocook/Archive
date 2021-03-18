@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210105\02_EnumerableGeneric\obj\Debug\netcoreapp3.1\02_EnumerableGeneric.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210105\02_EnumerableGeneric\obj\Debug\netcoreapp3.1\02_EnumerableGeneric.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210105\02_EnumerableGeneric\obj\Debug\netcoreapp3.1\02_EnumerableGeneric.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210105\02_EnumerableGeneric\bin\Debug\netcoreapp3.1\02_EnumerableGeneric.exe
+C:\coox\Archive\csharp\20210105\02_EnumerableGeneric\bin\Debug\netcoreapp3.1\02_EnumerableGeneric.deps.json
+C:\coox\Archive\csharp\20210105\02_EnumerableGeneric\bin\Debug\netcoreapp3.1\02_EnumerableGeneric.runtimeconfig.json
+C:\coox\Archive\csharp\20210105\02_EnumerableGeneric\bin\Debug\netcoreapp3.1\02_EnumerableGeneric.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210105\02_EnumerableGeneric\bin\Debug\netcoreapp3.1\02_EnumerableGeneric.dll
+C:\coox\Archive\csharp\20210105\02_EnumerableGeneric\bin\Debug\netcoreapp3.1\02_EnumerableGeneric.pdb
+C:\coox\Archive\csharp\20210105\02_EnumerableGeneric\obj\Debug\netcoreapp3.1\02_EnumerableGeneric.dll
+C:\coox\Archive\csharp\20210105\02_EnumerableGeneric\obj\Debug\netcoreapp3.1\02_EnumerableGeneric.pdb

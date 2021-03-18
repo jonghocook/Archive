@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210110\01_AnonymousMethod\obj\Debug\netcoreapp3.1\01_AnonymousMethod.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210110\01_AnonymousMethod\obj\Debug\netcoreapp3.1\01_AnonymousMethod.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210110\01_AnonymousMethod\obj\Debug\netcoreapp3.1\01_AnonymousMethod.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210110\01_AnonymousMethod\bin\Debug\netcoreapp3.1\01_AnonymousMethod.exe
+C:\coox\Archive\csharp\20210110\01_AnonymousMethod\bin\Debug\netcoreapp3.1\01_AnonymousMethod.deps.json
+C:\coox\Archive\csharp\20210110\01_AnonymousMethod\bin\Debug\netcoreapp3.1\01_AnonymousMethod.runtimeconfig.json
+C:\coox\Archive\csharp\20210110\01_AnonymousMethod\bin\Debug\netcoreapp3.1\01_AnonymousMethod.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210110\01_AnonymousMethod\bin\Debug\netcoreapp3.1\01_AnonymousMethod.dll
+C:\coox\Archive\csharp\20210110\01_AnonymousMethod\bin\Debug\netcoreapp3.1\01_AnonymousMethod.pdb
+C:\coox\Archive\csharp\20210110\01_AnonymousMethod\obj\Debug\netcoreapp3.1\01_AnonymousMethod.dll
+C:\coox\Archive\csharp\20210110\01_AnonymousMethod\obj\Debug\netcoreapp3.1\01_AnonymousMethod.pdb

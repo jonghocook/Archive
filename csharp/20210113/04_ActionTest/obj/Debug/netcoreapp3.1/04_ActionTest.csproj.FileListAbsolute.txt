@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210113\04_ActionTest\obj\Debug\netcoreapp3.1\04_ActionTest.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210113\04_ActionTest\obj\Debug\netcoreapp3.1\04_ActionTest.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210113\04_ActionTest\obj\Debug\netcoreapp3.1\04_ActionTest.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210113\04_ActionTest\bin\Debug\netcoreapp3.1\04_ActionTest.exe
+C:\coox\Archive\csharp\20210113\04_ActionTest\bin\Debug\netcoreapp3.1\04_ActionTest.deps.json
+C:\coox\Archive\csharp\20210113\04_ActionTest\bin\Debug\netcoreapp3.1\04_ActionTest.runtimeconfig.json
+C:\coox\Archive\csharp\20210113\04_ActionTest\bin\Debug\netcoreapp3.1\04_ActionTest.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210113\04_ActionTest\bin\Debug\netcoreapp3.1\04_ActionTest.dll
+C:\coox\Archive\csharp\20210113\04_ActionTest\bin\Debug\netcoreapp3.1\04_ActionTest.pdb
+C:\coox\Archive\csharp\20210113\04_ActionTest\obj\Debug\netcoreapp3.1\04_ActionTest.dll
+C:\coox\Archive\csharp\20210113\04_ActionTest\obj\Debug\netcoreapp3.1\04_ActionTest.pdb

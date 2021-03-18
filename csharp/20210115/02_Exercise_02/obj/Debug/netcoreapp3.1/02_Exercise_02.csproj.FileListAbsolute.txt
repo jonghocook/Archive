@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210115\02_Exercise_02\bin\Debug\netcoreapp3.1\02_Exercise_02.exe
+C:\coox\Archive\csharp\20210115\02_Exercise_02\bin\Debug\netcoreapp3.1\02_Exercise_02.deps.json
+C:\coox\Archive\csharp\20210115\02_Exercise_02\bin\Debug\netcoreapp3.1\02_Exercise_02.runtimeconfig.json
+C:\coox\Archive\csharp\20210115\02_Exercise_02\bin\Debug\netcoreapp3.1\02_Exercise_02.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210115\02_Exercise_02\bin\Debug\netcoreapp3.1\02_Exercise_02.dll
+C:\coox\Archive\csharp\20210115\02_Exercise_02\bin\Debug\netcoreapp3.1\02_Exercise_02.pdb
+C:\coox\Archive\csharp\20210115\02_Exercise_02\obj\Debug\netcoreapp3.1\02_Exercise_02.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210115\02_Exercise_02\obj\Debug\netcoreapp3.1\02_Exercise_02.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210115\02_Exercise_02\obj\Debug\netcoreapp3.1\02_Exercise_02.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210115\02_Exercise_02\obj\Debug\netcoreapp3.1\02_Exercise_02.dll
+C:\coox\Archive\csharp\20210115\02_Exercise_02\obj\Debug\netcoreapp3.1\02_Exercise_02.pdb

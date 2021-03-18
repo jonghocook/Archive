@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210107\03_GenericDelegate\bin\Debug\netcoreapp3.1\03_GenericDelegate.exe
+C:\coox\Archive\csharp\20210107\03_GenericDelegate\bin\Debug\netcoreapp3.1\03_GenericDelegate.deps.json
+C:\coox\Archive\csharp\20210107\03_GenericDelegate\bin\Debug\netcoreapp3.1\03_GenericDelegate.runtimeconfig.json
+C:\coox\Archive\csharp\20210107\03_GenericDelegate\bin\Debug\netcoreapp3.1\03_GenericDelegate.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210107\03_GenericDelegate\bin\Debug\netcoreapp3.1\03_GenericDelegate.dll
+C:\coox\Archive\csharp\20210107\03_GenericDelegate\bin\Debug\netcoreapp3.1\03_GenericDelegate.pdb
+C:\coox\Archive\csharp\20210107\03_GenericDelegate\obj\Debug\netcoreapp3.1\03_GenericDelegate.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210107\03_GenericDelegate\obj\Debug\netcoreapp3.1\03_GenericDelegate.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210107\03_GenericDelegate\obj\Debug\netcoreapp3.1\03_GenericDelegate.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210107\03_GenericDelegate\obj\Debug\netcoreapp3.1\03_GenericDelegate.dll
+C:\coox\Archive\csharp\20210107\03_GenericDelegate\obj\Debug\netcoreapp3.1\03_GenericDelegate.pdb

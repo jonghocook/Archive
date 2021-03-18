@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210115\05_FromFrom\obj\Debug\netcoreapp3.1\05_FromFrom.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210115\05_FromFrom\obj\Debug\netcoreapp3.1\05_FromFrom.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210115\05_FromFrom\obj\Debug\netcoreapp3.1\05_FromFrom.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210115\05_FromFrom\bin\Debug\netcoreapp3.1\05_FromFrom.exe
+C:\coox\Archive\csharp\20210115\05_FromFrom\bin\Debug\netcoreapp3.1\05_FromFrom.deps.json
+C:\coox\Archive\csharp\20210115\05_FromFrom\bin\Debug\netcoreapp3.1\05_FromFrom.runtimeconfig.json
+C:\coox\Archive\csharp\20210115\05_FromFrom\bin\Debug\netcoreapp3.1\05_FromFrom.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210115\05_FromFrom\bin\Debug\netcoreapp3.1\05_FromFrom.dll
+C:\coox\Archive\csharp\20210115\05_FromFrom\bin\Debug\netcoreapp3.1\05_FromFrom.pdb
+C:\coox\Archive\csharp\20210115\05_FromFrom\obj\Debug\netcoreapp3.1\05_FromFrom.dll
+C:\coox\Archive\csharp\20210115\05_FromFrom\obj\Debug\netcoreapp3.1\05_FromFrom.pdb

@@ -1,0 +1,16 @@
+C:\coox\Archive\csharp\Practical_01\bin\Debug\net5.0\Practical_01.exe
+C:\coox\Archive\csharp\Practical_01\bin\Debug\net5.0\Practical_01.deps.json
+C:\coox\Archive\csharp\Practical_01\bin\Debug\net5.0\Practical_01.runtimeconfig.json
+C:\coox\Archive\csharp\Practical_01\bin\Debug\net5.0\Practical_01.runtimeconfig.dev.json
+C:\coox\Archive\csharp\Practical_01\bin\Debug\net5.0\Practical_01.dll
+C:\coox\Archive\csharp\Practical_01\bin\Debug\net5.0\ref\Practical_01.dll
+C:\coox\Archive\csharp\Practical_01\bin\Debug\net5.0\Practical_01.pdb
+C:\coox\Archive\csharp\Practical_01\obj\Debug\net5.0\Practical_01.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\Practical_01\obj\Debug\net5.0\Practical_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\coox\Archive\csharp\Practical_01\obj\Debug\net5.0\Practical_01.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\Practical_01\obj\Debug\net5.0\Practical_01.AssemblyInfo.cs
+C:\coox\Archive\csharp\Practical_01\obj\Debug\net5.0\Practical_01.csproj.CoreCompileInputs.cache
+C:\coox\Archive\csharp\Practical_01\obj\Debug\net5.0\Practical_01.dll
+C:\coox\Archive\csharp\Practical_01\obj\Debug\net5.0\ref\Practical_01.dll
+C:\coox\Archive\csharp\Practical_01\obj\Debug\net5.0\Practical_01.pdb
+C:\coox\Archive\csharp\Practical_01\obj\Debug\net5.0\Practical_01.genruntimeconfig.cache

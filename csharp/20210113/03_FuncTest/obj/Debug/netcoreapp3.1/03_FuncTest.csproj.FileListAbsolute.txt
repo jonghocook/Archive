@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210113\03_FuncTest\bin\Debug\netcoreapp3.1\03_FuncTest.exe
+C:\coox\Archive\csharp\20210113\03_FuncTest\bin\Debug\netcoreapp3.1\03_FuncTest.deps.json
+C:\coox\Archive\csharp\20210113\03_FuncTest\bin\Debug\netcoreapp3.1\03_FuncTest.runtimeconfig.json
+C:\coox\Archive\csharp\20210113\03_FuncTest\bin\Debug\netcoreapp3.1\03_FuncTest.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210113\03_FuncTest\bin\Debug\netcoreapp3.1\03_FuncTest.dll
+C:\coox\Archive\csharp\20210113\03_FuncTest\bin\Debug\netcoreapp3.1\03_FuncTest.pdb
+C:\coox\Archive\csharp\20210113\03_FuncTest\obj\Debug\netcoreapp3.1\03_FuncTest.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210113\03_FuncTest\obj\Debug\netcoreapp3.1\03_FuncTest.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210113\03_FuncTest\obj\Debug\netcoreapp3.1\03_FuncTest.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210113\03_FuncTest\obj\Debug\netcoreapp3.1\03_FuncTest.dll
+C:\coox\Archive\csharp\20210113\03_FuncTest\obj\Debug\netcoreapp3.1\03_FuncTest.pdb

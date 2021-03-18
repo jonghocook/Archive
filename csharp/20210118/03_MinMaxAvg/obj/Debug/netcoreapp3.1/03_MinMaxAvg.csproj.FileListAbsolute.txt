@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210118\03_MinMaxAvg\obj\Debug\netcoreapp3.1\03_MinMaxAvg.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210118\03_MinMaxAvg\obj\Debug\netcoreapp3.1\03_MinMaxAvg.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210118\03_MinMaxAvg\obj\Debug\netcoreapp3.1\03_MinMaxAvg.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210118\03_MinMaxAvg\bin\Debug\netcoreapp3.1\03_MinMaxAvg.exe
+C:\coox\Archive\csharp\20210118\03_MinMaxAvg\bin\Debug\netcoreapp3.1\03_MinMaxAvg.deps.json
+C:\coox\Archive\csharp\20210118\03_MinMaxAvg\bin\Debug\netcoreapp3.1\03_MinMaxAvg.runtimeconfig.json
+C:\coox\Archive\csharp\20210118\03_MinMaxAvg\bin\Debug\netcoreapp3.1\03_MinMaxAvg.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210118\03_MinMaxAvg\bin\Debug\netcoreapp3.1\03_MinMaxAvg.dll
+C:\coox\Archive\csharp\20210118\03_MinMaxAvg\bin\Debug\netcoreapp3.1\03_MinMaxAvg.pdb
+C:\coox\Archive\csharp\20210118\03_MinMaxAvg\obj\Debug\netcoreapp3.1\03_MinMaxAvg.dll
+C:\coox\Archive\csharp\20210118\03_MinMaxAvg\obj\Debug\netcoreapp3.1\03_MinMaxAvg.pdb

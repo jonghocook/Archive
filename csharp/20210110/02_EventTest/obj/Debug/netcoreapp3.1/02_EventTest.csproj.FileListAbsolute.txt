@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210110\02_EventTest\obj\Debug\netcoreapp3.1\02_EventTest.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210110\02_EventTest\obj\Debug\netcoreapp3.1\02_EventTest.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210110\02_EventTest\obj\Debug\netcoreapp3.1\02_EventTest.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210110\02_EventTest\bin\Debug\netcoreapp3.1\02_EventTest.exe
+C:\coox\Archive\csharp\20210110\02_EventTest\bin\Debug\netcoreapp3.1\02_EventTest.deps.json
+C:\coox\Archive\csharp\20210110\02_EventTest\bin\Debug\netcoreapp3.1\02_EventTest.runtimeconfig.json
+C:\coox\Archive\csharp\20210110\02_EventTest\bin\Debug\netcoreapp3.1\02_EventTest.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210110\02_EventTest\bin\Debug\netcoreapp3.1\02_EventTest.dll
+C:\coox\Archive\csharp\20210110\02_EventTest\bin\Debug\netcoreapp3.1\02_EventTest.pdb
+C:\coox\Archive\csharp\20210110\02_EventTest\obj\Debug\netcoreapp3.1\02_EventTest.dll
+C:\coox\Archive\csharp\20210110\02_EventTest\obj\Debug\netcoreapp3.1\02_EventTest.pdb

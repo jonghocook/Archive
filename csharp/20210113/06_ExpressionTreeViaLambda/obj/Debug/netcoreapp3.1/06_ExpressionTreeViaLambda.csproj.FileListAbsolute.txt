@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210113\06_ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\06_ExpressionTreeViaLambda.exe
+C:\coox\Archive\csharp\20210113\06_ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\06_ExpressionTreeViaLambda.deps.json
+C:\coox\Archive\csharp\20210113\06_ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\06_ExpressionTreeViaLambda.runtimeconfig.json
+C:\coox\Archive\csharp\20210113\06_ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\06_ExpressionTreeViaLambda.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210113\06_ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\06_ExpressionTreeViaLambda.dll
+C:\coox\Archive\csharp\20210113\06_ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\06_ExpressionTreeViaLambda.pdb
+C:\coox\Archive\csharp\20210113\06_ExpressionTreeViaLambda\obj\Debug\netcoreapp3.1\06_ExpressionTreeViaLambda.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210113\06_ExpressionTreeViaLambda\obj\Debug\netcoreapp3.1\06_ExpressionTreeViaLambda.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210113\06_ExpressionTreeViaLambda\obj\Debug\netcoreapp3.1\06_ExpressionTreeViaLambda.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210113\06_ExpressionTreeViaLambda\obj\Debug\netcoreapp3.1\06_ExpressionTreeViaLambda.dll
+C:\coox\Archive\csharp\20210113\06_ExpressionTreeViaLambda\obj\Debug\netcoreapp3.1\06_ExpressionTreeViaLambda.pdb

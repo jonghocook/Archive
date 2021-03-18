@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210122\02_EmitTest\obj\Debug\netcoreapp3.1\02_EmitTest.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210122\02_EmitTest\obj\Debug\netcoreapp3.1\02_EmitTest.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210122\02_EmitTest\obj\Debug\netcoreapp3.1\02_EmitTest.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210122\02_EmitTest\bin\Debug\netcoreapp3.1\02_EmitTest.exe
+C:\coox\Archive\csharp\20210122\02_EmitTest\bin\Debug\netcoreapp3.1\02_EmitTest.deps.json
+C:\coox\Archive\csharp\20210122\02_EmitTest\bin\Debug\netcoreapp3.1\02_EmitTest.runtimeconfig.json
+C:\coox\Archive\csharp\20210122\02_EmitTest\bin\Debug\netcoreapp3.1\02_EmitTest.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210122\02_EmitTest\bin\Debug\netcoreapp3.1\02_EmitTest.dll
+C:\coox\Archive\csharp\20210122\02_EmitTest\bin\Debug\netcoreapp3.1\02_EmitTest.pdb
+C:\coox\Archive\csharp\20210122\02_EmitTest\obj\Debug\netcoreapp3.1\02_EmitTest.dll
+C:\coox\Archive\csharp\20210122\02_EmitTest\obj\Debug\netcoreapp3.1\02_EmitTest.pdb

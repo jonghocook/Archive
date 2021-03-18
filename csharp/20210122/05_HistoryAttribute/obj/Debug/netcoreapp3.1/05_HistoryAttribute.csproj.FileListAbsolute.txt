@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210122\05_HistoryAttribute\bin\Debug\netcoreapp3.1\05_HistoryAttribute.exe
+C:\coox\Archive\csharp\20210122\05_HistoryAttribute\bin\Debug\netcoreapp3.1\05_HistoryAttribute.deps.json
+C:\coox\Archive\csharp\20210122\05_HistoryAttribute\bin\Debug\netcoreapp3.1\05_HistoryAttribute.runtimeconfig.json
+C:\coox\Archive\csharp\20210122\05_HistoryAttribute\bin\Debug\netcoreapp3.1\05_HistoryAttribute.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210122\05_HistoryAttribute\bin\Debug\netcoreapp3.1\05_HistoryAttribute.dll
+C:\coox\Archive\csharp\20210122\05_HistoryAttribute\bin\Debug\netcoreapp3.1\05_HistoryAttribute.pdb
+C:\coox\Archive\csharp\20210122\05_HistoryAttribute\obj\Debug\netcoreapp3.1\05_HistoryAttribute.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210122\05_HistoryAttribute\obj\Debug\netcoreapp3.1\05_HistoryAttribute.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210122\05_HistoryAttribute\obj\Debug\netcoreapp3.1\05_HistoryAttribute.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210122\05_HistoryAttribute\obj\Debug\netcoreapp3.1\05_HistoryAttribute.dll
+C:\coox\Archive\csharp\20210122\05_HistoryAttribute\obj\Debug\netcoreapp3.1\05_HistoryAttribute.pdb

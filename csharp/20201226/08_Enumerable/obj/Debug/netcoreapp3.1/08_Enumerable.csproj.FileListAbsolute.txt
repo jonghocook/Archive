@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20201226\08_Enumerable\obj\Debug\netcoreapp3.1\08_Enumerable.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20201226\08_Enumerable\obj\Debug\netcoreapp3.1\08_Enumerable.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20201226\08_Enumerable\obj\Debug\netcoreapp3.1\08_Enumerable.AssemblyInfo.cs
+C:\coox\Archive\csharp\20201226\08_Enumerable\bin\Debug\netcoreapp3.1\08_Enumerable.exe
+C:\coox\Archive\csharp\20201226\08_Enumerable\bin\Debug\netcoreapp3.1\08_Enumerable.deps.json
+C:\coox\Archive\csharp\20201226\08_Enumerable\bin\Debug\netcoreapp3.1\08_Enumerable.runtimeconfig.json
+C:\coox\Archive\csharp\20201226\08_Enumerable\bin\Debug\netcoreapp3.1\08_Enumerable.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20201226\08_Enumerable\bin\Debug\netcoreapp3.1\08_Enumerable.dll
+C:\coox\Archive\csharp\20201226\08_Enumerable\bin\Debug\netcoreapp3.1\08_Enumerable.pdb
+C:\coox\Archive\csharp\20201226\08_Enumerable\obj\Debug\netcoreapp3.1\08_Enumerable.dll
+C:\coox\Archive\csharp\20201226\08_Enumerable\obj\Debug\netcoreapp3.1\08_Enumerable.pdb

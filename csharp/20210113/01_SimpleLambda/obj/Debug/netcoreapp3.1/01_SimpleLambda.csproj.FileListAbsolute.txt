@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210113\01_SimpleLambda\bin\Debug\netcoreapp3.1\01_SimpleLambda.exe
+C:\coox\Archive\csharp\20210113\01_SimpleLambda\bin\Debug\netcoreapp3.1\01_SimpleLambda.deps.json
+C:\coox\Archive\csharp\20210113\01_SimpleLambda\bin\Debug\netcoreapp3.1\01_SimpleLambda.runtimeconfig.json
+C:\coox\Archive\csharp\20210113\01_SimpleLambda\bin\Debug\netcoreapp3.1\01_SimpleLambda.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210113\01_SimpleLambda\bin\Debug\netcoreapp3.1\01_SimpleLambda.dll
+C:\coox\Archive\csharp\20210113\01_SimpleLambda\bin\Debug\netcoreapp3.1\01_SimpleLambda.pdb
+C:\coox\Archive\csharp\20210113\01_SimpleLambda\obj\Debug\netcoreapp3.1\01_SimpleLambda.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210113\01_SimpleLambda\obj\Debug\netcoreapp3.1\01_SimpleLambda.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210113\01_SimpleLambda\obj\Debug\netcoreapp3.1\01_SimpleLambda.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210113\01_SimpleLambda\obj\Debug\netcoreapp3.1\01_SimpleLambda.dll
+C:\coox\Archive\csharp\20210113\01_SimpleLambda\obj\Debug\netcoreapp3.1\01_SimpleLambda.pdb

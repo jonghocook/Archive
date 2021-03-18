@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210105\03_KillingProgram\bin\Debug\netcoreapp3.1\03_KillingProgram.exe
+C:\coox\Archive\csharp\20210105\03_KillingProgram\bin\Debug\netcoreapp3.1\03_KillingProgram.deps.json
+C:\coox\Archive\csharp\20210105\03_KillingProgram\bin\Debug\netcoreapp3.1\03_KillingProgram.runtimeconfig.json
+C:\coox\Archive\csharp\20210105\03_KillingProgram\bin\Debug\netcoreapp3.1\03_KillingProgram.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210105\03_KillingProgram\bin\Debug\netcoreapp3.1\03_KillingProgram.dll
+C:\coox\Archive\csharp\20210105\03_KillingProgram\bin\Debug\netcoreapp3.1\03_KillingProgram.pdb
+C:\coox\Archive\csharp\20210105\03_KillingProgram\obj\Debug\netcoreapp3.1\03_KillingProgram.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210105\03_KillingProgram\obj\Debug\netcoreapp3.1\03_KillingProgram.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210105\03_KillingProgram\obj\Debug\netcoreapp3.1\03_KillingProgram.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210105\03_KillingProgram\obj\Debug\netcoreapp3.1\03_KillingProgram.dll
+C:\coox\Archive\csharp\20210105\03_KillingProgram\obj\Debug\netcoreapp3.1\03_KillingProgram.pdb

@@ -1,0 +1,11 @@
+C:\coox\Archive\csharp\20210118\02_SimpleLinq2\bin\Debug\netcoreapp3.1\02_SimpleLinq2.exe
+C:\coox\Archive\csharp\20210118\02_SimpleLinq2\bin\Debug\netcoreapp3.1\02_SimpleLinq2.deps.json
+C:\coox\Archive\csharp\20210118\02_SimpleLinq2\bin\Debug\netcoreapp3.1\02_SimpleLinq2.runtimeconfig.json
+C:\coox\Archive\csharp\20210118\02_SimpleLinq2\bin\Debug\netcoreapp3.1\02_SimpleLinq2.runtimeconfig.dev.json
+C:\coox\Archive\csharp\20210118\02_SimpleLinq2\bin\Debug\netcoreapp3.1\02_SimpleLinq2.dll
+C:\coox\Archive\csharp\20210118\02_SimpleLinq2\bin\Debug\netcoreapp3.1\02_SimpleLinq2.pdb
+C:\coox\Archive\csharp\20210118\02_SimpleLinq2\obj\Debug\netcoreapp3.1\02_SimpleLinq2.csprojAssemblyReference.cache
+C:\coox\Archive\csharp\20210118\02_SimpleLinq2\obj\Debug\netcoreapp3.1\02_SimpleLinq2.AssemblyInfoInputs.cache
+C:\coox\Archive\csharp\20210118\02_SimpleLinq2\obj\Debug\netcoreapp3.1\02_SimpleLinq2.AssemblyInfo.cs
+C:\coox\Archive\csharp\20210118\02_SimpleLinq2\obj\Debug\netcoreapp3.1\02_SimpleLinq2.dll
+C:\coox\Archive\csharp\20210118\02_SimpleLinq2\obj\Debug\netcoreapp3.1\02_SimpleLinq2.pdb
